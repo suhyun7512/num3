@@ -122,10 +122,18 @@
 
 @media ( max-width: 600px) {
     .guide-sub-p-1{
-        font-size: 4px;
+        font-size: 10px;
         height: 60px;
     }
 }
+
+@media ( max-width: 450px) {
+    .guide-sub-p-1{
+        font-size: 14px;
+        height: 60px;
+    }
+}
+
 
 
 @media ( max-width: 1500px ) {
@@ -148,7 +156,7 @@
     }
     
     .guide-sub-p{
-        font-size: 16px;
+        font-size: 20px;
     }
 }
 
@@ -157,11 +165,11 @@
         letter-spacing:20px;
     }
     .guide-main-p{
-        font-size: 22px;
+        font-size: 24px;
     }
     
     .guide-sub-p{
-        font-size: 12px;
+        font-size: 18px;
     }
 }
 
